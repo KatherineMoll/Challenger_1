@@ -1,7 +1,7 @@
-git status
-
-[D[D[D[A[A[B[C[C[C[C[C[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[3~[3~[3~[3~[3~[3~[D[D[D[3~[3~[3~[3~[3~[3~[3~
-[D[D[A[A[B[3~[3~[3~[Dghxfj[D[D[D[D[DCapitulo 1: Introduccion a Git
-Captiulo 2: Flujo de trabajo básico
-Capitulo 3: Gestión de Ramas
-Capitulo 4: Repositorio remotos
+Informacion
+Capitulo Capitulo
+[ACapitulo 1: Introduccion a Git
+Capitulo [A[B[A[B2: Flujo de trabajo bàsico
+Capitulo 3: Gestiòn de ramas
+Capitulo 4: Repositorios remotos
+
