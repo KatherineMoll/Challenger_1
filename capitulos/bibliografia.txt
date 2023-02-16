@@ -1,3 +1,4 @@
-Chacon, S. and Straub, B. Pr o Git. Apress.
-Loeliger, J .and McCullong, M. Version control eith Git. OÔReilly
-Hodson, R. Ry¥s Git Tutorial. Smashwords (2014)
+- Scott Chacon and Ben Straub. Pro Pr o Git. Apress.
+- Ryan Hodson. Ry¥s Git Tutorial. Smashwords (2014)
+
+
