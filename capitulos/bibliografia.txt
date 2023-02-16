@@ -1,1 +1,3 @@
 - Chacon, S. and Straub, B. Pr o Git. Apress.
+-Loeliger, J .and McCullong, M. Version control eith Git. OÔReilly
+dir
