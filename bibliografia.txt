@@ -1,0 +1,3 @@
+Chacon, S. and Straub, B.Pro Git. Apress.
+Loeliger, J. and McCullong, M. Version control with Git. O´Reilly.
+Ryan Housdon. Ry´s Git Tutorial.Smashwords (2014)
